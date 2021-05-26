@@ -1,2 +1,4 @@
 # Bike-Rental-Prediction
-Predict the daily number of bike subscribers and demand based on weather conditions 
+Building a Linear Regression model to predict the daily number of bike subscribers based on weather conditions.
+
+This is a class assignment and the dataset used was made available from upGrad.
